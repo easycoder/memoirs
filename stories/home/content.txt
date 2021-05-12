@@ -44,6 +44,8 @@ Each of these pages has a selection of links to other pages. Here's a complete l
 
 ~stid:Graham/Career5:Audix Broadcast~
 
+~stid:Graham/Funerals:Funerals~
+
 ~stid:Graham/Technology:The Geek's Progress~
 
 ~stid:Graham/Computer1:Building my first computer~
