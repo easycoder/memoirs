@@ -20,7 +20,7 @@ Graham Trott; Leeds, November 2020
 
 ## Contents list
 
-Each of these pages has a selection of links to other pages. Here's a complete list of all the pages:
+Each of these pages has a selection of links to other pages. Every page has a link from at least one other page, and there's a link on each page to a suggested page to follow it. Here's a complete list of all the pages:
 
 ### Albert
 ~sid:Albert:Albert Woodhead~

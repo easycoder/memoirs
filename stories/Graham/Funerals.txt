@@ -1,6 +1,6 @@
 Links: ~select:-:Select a subject!selected disabled hidden|S-Joan:Mum|SRonald:Dad|T-Pre-school:My early years|T-Kent:The move to Kent|T-Grammar school:Grammar school|T-University:University|T-Career1:Work and Careers|T-Holidays:Holidays|T-Music:Favourite music|T-Films:Favourite films|T-Miscellany:Miscellany|T-Technology:The Geek's Progress~~space:3~Next:
 
-## The Funeral business
+## The Funeral Business
 
 In early 2020 it was becoming obvious that my days as a professional computer programmer were past. I no longer had the stamina to keep up all day, every day, and I had a growing conviction that things were being done entirely the wrong way - see ~tid:EasyCoder:EasyCoder~ - that was completely at odds with the way everyone else worked. On top of which, there are few opportunities for computer programmers of my age, so all I had left was hobby work. Given the lack of interaction this implies, I was becoming increasingly idle.
 
