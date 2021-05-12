@@ -1,5 +1,15 @@
-Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Brentwood:Brentwood~
+Links: ~select:-:Select a subject!selected disabled hidden|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Brentwood:Brentwood~
 
 # Penge
 
-Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Brentwood:Brentwood~
+While I was at university my parents helped me buy a first-floor flat in Penge, in south-east London. The building had been constructed on a site that had presumably been bombed out during the war; it was the only modern building in the road, the rest being from much earlier in the century. There's not much to say about the place; the house had 2 floors of whch mine was the upper, with an outside concrete staircase for access and a small garden that I never did much with.
+
+I had just got married, to my first wife Kay, and the place was chosen as not being too far from her parents in West Wickham. I had previously been living in dismal rented accomodation in Islington and marriage and the flat came together as a package. Whether we would have ever had the drive to set up home together had I not had the parental help is a good question; perhaps it would have saved me from my first divorce.
+
+While in Penge I continued my studies. I was at the tail end of a "thin sandwich" course, which meant having to spend 6 months of each year working for my sponsor, the South-Eastern Electricity Board (Seeboard). They were headquartered in Brighton but the office I worked at was in Tunbridge Wells, so Penge was hardly the ideal location. For a while I commuted daily on a motorbike, though this was quite an undertaking in winter; one morning it was snow and ice all the way and I was lucky to make it in one piece. The details of that time are hazy in my mind, but I think this situation only lasted a year or so before I graduated. I immediately jumped ship to go and work for Post Office Telecommunications in London, much to the disgust of Seeboard, who were quite upset at having invested 5 years in me only to lose me.
+
+A controversial period then arose. I had expressed an interest in moving and my parents saw it as an opportunity to help my brother Malcolm enter the housing market by helping him buy the flat from me. Kay saw it as them pushing us out, especially as the housing market was going though one of its periodic booms at that time (1973) and reasonably-priced houses were hard to find. We eventually settle for a bungalow in Brentwood, which I'll describe on another page.
+
+Malcolm stayed in the flat for a couple of years, then the planners descended on the whole area and all the houses, including our flat, were scheduled to be demolished. I think he came out of it reasonably well, but it was certainly an unsettling time.
+
+Links: ~select:-:Select a subject!selected disabled hidden|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Brentwood:Brentwood~
