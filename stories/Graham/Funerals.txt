@@ -1,4 +1,4 @@
-Links: ~select:-:Select a subject!selected disabled hidden|S-Joan:Mum|SRonald:Dad|T-Pre-school:My early years|T-Kent:The move to Kent|T-Grammar school:Grammar school|T-University:University|T-Career1:Work and Careers|T-Holidays:Holidays|T-Music:Favourite music|T-Films:Favourite films|T-Miscellany:Miscellany|T-Technology:The Geek's Progress~~space:3~Next: ~tid:Pre-school:My early years~
+Links: ~select:-:Select a subject!selected disabled hidden|S-Joan:Mum|SRonald:Dad|T-Pre-school:My early years|T-Kent:The move to Kent|T-Grammar school:Grammar school|T-University:University|T-Career1:Work and Careers|T-Holidays:Holidays|T-Music:Favourite music|T-Films:Favourite films|T-Miscellany:Miscellany|T-Technology:The Geek's Progress~~space:3~Next:
 
 ## The Funeral business
 
@@ -14,4 +14,4 @@ We usually finish a video within 2 days of the service, and our rates are below 
 
 The future is of course unknown. If and when Covid becomes a thing of the past our business may well dry up. On the other hand, remotely attending a funeral may well retain enough demand to keep us in business indefinitely. Who can say.
 
-Links: ~select:-:Select a subject!selected disabled hidden|S-Joan:Mum|SRonald:Dad|T-Pre-school:My early years|T-Kent:The move to Kent|T-Grammar school:Grammar school|T-University:University|T-Career1:Work and Careers|T-Holidays:Holidays|T-Music:Favourite music|T-Films:Favourite films|T-Miscellany:Miscellany|T-Technology:The Geek's Progress~~space:3~Next: ~tid:Pre-school:My early years~
+Links: ~select:-:Select a subject!selected disabled hidden|S-Joan:Mum|SRonald:Dad|T-Pre-school:My early years|T-Kent:The move to Kent|T-Grammar school:Grammar school|T-University:University|T-Career1:Work and Careers|T-Holidays:Holidays|T-Music:Favourite music|T-Films:Favourite films|T-Miscellany:Miscellany|T-Technology:The Geek's Progress~~space:3~Next:
