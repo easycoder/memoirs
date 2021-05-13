@@ -1,5 +1,15 @@
-Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Nort Walsham:North Walsham~
+Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Wymondham:Wymondham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:North Walsham:North Walsham~
 
 # Felixstowe
 
-Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:North Walsham:North Walsham~
+In 1975, British Telecom' Research Department moved from Dollis Hill in North London to Martlesham Heath, just out side Ipswich in Suffolk. I had only recently joined the department and with the rest started work at the new offices. We started by renting a small house, one of a number owned by BT to be used for that purpose. Then a year or so later I finally sold my bungalow in Brentwood and bought one in Felixstowe, within walking distance of the town centre and the sea.
+
+Now called Adastral Park, the BT Research Labs are instantly recognisable:
+
+~img:Adastral Park.jpg:center 75%~
+
+We spent 5 of so years in the bungalow, then Frances developed a hankering for a move. We eventually picked another bungalow, this time further from the centre of town. It was a dramatic kind of place with huge areas of glass surrounding a large open-plan living room, dining room and kitchen. It was positioned almost at the end of a lane that turned into a track leading down to the River Orwell, a beautiful area with salt flats and views across to Harwich. All of this was due to change, though with the expansion of Felixstowe Docks up the Orwell. Our land was eventually blocked, ending at a wire fence with immense sheds behind it. The locals put up a feisty battle to save our salt flats but were no match for the power of money. Without that, it may have become our "forever home" but other things were also piling on pressure for a change.
+
+I was at ~tid:Career2:Martlesham~ from 1975 till 1989 - just about the longest time I've spent anywhere and during that time I rose majestically up the hierarchy, gaining no less than one promotion. The problem was, I enjoyed what I did and knew that further promotion would take me out of it and into a purely management role, the thought of which was too much too bear. The single promotion I had attained was into a semi-management position and it was probably that as much as anything that drove my interest in microprocessor software, something there was no official call for inside the organisation. On such simple things whole worlds turn. Eventually I became disillusioned with the whole corporate career thing and took a job at ~tid:Career3:Windrush Micro Systems~, a Norfolk-based company for whom I'd been privately writing software for some years. Time to move again, this time to Norfolk.
+
+Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Wymondham:Wymondham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:North Walsham:North Walsham~

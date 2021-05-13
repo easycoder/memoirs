@@ -1,5 +1,15 @@
-Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Cambridge:Cambridge~
+Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Wymondham:Wymondham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Wymondham:Wymondham~
 
 # North Walsham
 
-Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Cambridge:Cambridge~
+North Walsham is not a particularly lovable place. It's nether one thing nor another. As a market town it can't compare with others like Wymondham or Swaffham. It's sightly too far from Norwich and not quite close enough to the coast. Close enough though to suffer from the "fret"; the wind that frequently blows in from the North and blankets the whole coastline in low, damp and chilly cloud while just a few miles inland they bask in Meditteranean sunshine. As they say, once you head out from the North Norfolk coast the next stop is the North Pole.
+
+But North Walsham was the home of ~tid:Career3:Windrush Micro Systems~, so that was where I had to be. We found a 5-bedroom chalet house nearing completion, with the builder looking to replace the buyer who had pulled out.
+
+Actually, times weren't too bad from 1989 till 2000 or so. We had space to entertain and put people up, and no shortage of family and friends looking for a country break. Although North Walsham isn't right on the coast it's not that far inland, and the North Norfolk beaches, though often chilly and windswept, are impressive places for a day out.
+
+The work that had brought me to North Walsham lasted barely a year, though, before the company was essentially wiped out by the shallow recession of 1990. I was fortunate to find another job that required me to work from home for an employer about 20 miles away across Norfolk, and ~tid:Career4:this job~ kept me going for a good 10 years. Nothing lasts for ever, though, and this time it was the Government who forced a change when they brought in the infamous IR35 tax rules. My status had been that of Technical Director; this would have to change and for me to become a regular employee, costing a lot more. Th company had never achieved real success; the owner had sunk close on a million pounds into it over the 10 years and we never quite managed to make it profitable. So I was at risk of unemployment again.
+
+It soon became quite obvious that North Walsham was not a good place for a programmer to live. Computing in Norwich is mostly finance, for which I had no experience, and technology was around Cambridge. So we decided to sell up and move a bit further south. I was still doing some work for ~tid:Career5:Audix Broadcast~, in Saffron Walden, so just moving the other side of Norwich seemed a good plan. We found a bungalow in Wymondham, a pleasant market town about 10 miles south of Norwich.
+
+Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Wymondham:Wymondham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Wymondham:Wymondham~
