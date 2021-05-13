@@ -10,7 +10,7 @@ At the time of writing the options for free hosting are fairly limited. Having l
 
 This website is built using Storyteller, a system for organizing text files written in an extended Markdown format. The system is fully documented at [its own website](https://storyteller-framework.netlify.app), and for anyone interested the entire source of the site can be found in the [Storyteller Github repository](https://github.com/easycoder/storyteller).
 
-Storyteller is easy to use and anyone can build their own website with it. Most of the work is in writing the copy and finding the photos that will illustrate that copy. Your website can be hosted for free on [Neocities](https://neocities.org), where setting up an account is very simple.
+Storyteller is easy to use and anyone can build their own website with it. Most of the work is in writing the copy and finding the photos that will illustrate that copy. Your website can be hosted for free in various places; we suggest [Neocities](https://neocities.org), where setting up an account and building a Stroyteller website are both very simple.
 
 ### Customising this website
 
