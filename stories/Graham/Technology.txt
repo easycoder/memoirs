@@ -8,7 +8,7 @@ My lifetime interest - some might say obsession - with all forms of technology p
 
 I recall building a crystal radio set - that barely worked - and accumulating various cast-off radios. I started listening to Radio Luxembourg, the only station broadcasting non-stop pop music, from 7pm onwards in dismal quality on Long Wave. At the age of 14 my favourite record was "Island of Dreams", by The Springfields:
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ilqKtJrs12w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/rhF-Mqn-HEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 When I was 15 my parents bought me a small reel-to-reel tape recorder, which I used enthusiastically to build record playlists. I became quite adept at cutting and splicing audio tape. Around that time I started spending my meagre pocket money on electronics magazines, most notably Practical Electronics. So by the time I finished school 3 years later in 1966 I was quite well up on transistors and the rest of electronic circuitry, even if I didn't have a great deal of practical experience.
 

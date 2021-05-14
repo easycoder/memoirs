@@ -34,23 +34,11 @@ Each of these pages has a selection of links to other pages. Every page has a li
 
 ~stid:Graham/University:University~
 
-~stid:Graham/Career1:My first career~
+~stid:Graham/Career1:My working career~ (several pages)
 
-~stid:Graham/Career2:Post Office Telecommunications~
+~stid:Graham/Addresses:Places I have lived~ (several pages)
 
-~stid:Graham/Career3:Windrush~
-
-~stid:Graham/Career4:CD-Interactive~
-
-~stid:Graham/Career5:Audix Broadcast~
-
-~stid:Graham/Funerals:Funerals~
-
-~stid:Graham/Technology:The Geek's Progress~
-
-~stid:Graham/Computer1:Building my first computer~
-
-~stid:Graham/Computer2:Assemblers and Compilers~
+~stid:Graham/Technology:A Geek's Progress~ (several pages)
 
 ~stid:Graham/Holidays:Holidays~
 
