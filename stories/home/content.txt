@@ -36,7 +36,7 @@ Each of these pages has a selection of links to other pages. Every page has a li
 
 ~stid:Graham/Career1:My working career~ (several pages)
 
-~stid:Graham/Addresses:Places I have lived~ (several pages)
+~stid:Graham/Penge:Places I have lived~ (several pages)
 
 ~stid:Graham/Technology:A Geek's Progress~ (several pages)
 

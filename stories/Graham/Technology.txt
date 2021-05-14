@@ -1,6 +1,6 @@
 Links: ~select:-:Select a subject!selected disabled hidden|S-Joan:Mum|SRonald:Dad|T-Music:Favourite music|T-Films:Favourite films~~space:3~Next: ~tid:Computer1:Building my first computer~
 
-# The Geek's Progress
+# A Geek's Progress
 
 My lifetime interest - some might say obsession - with all forms of technology probably started when I was around 11, in 1959. Up until then my exposure to music had been almost exclusively to the classical variety, though I was aware that Dad also liked some popular stuff, most notably Eartha Kitt. However, when I passed the 11-plus and started at the Grammar school I discovered a whole new genre. Pop music arrived in the mainstream at about that time. The first record I bought, in 1960, was "Apache", from The Shadows:
 
