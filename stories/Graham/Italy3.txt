@@ -22,6 +22,6 @@ Although Guy was passionate about his Italian heritage, his wife Noelle was less
 
 Torri was not without its more interesting moments. The local council tries hard to bring events to the village. Every year, a huge motorcycle club based over the French border in Roquebrune held a rally which used Torri as the place to stop for lunch. The piazza filled with hundreds of bikes of all kinds. A veteran sports car rally did much the same on another weekend, when it became impossible to get in or out. This didn't matter too much to us as we had ringside seats right above. There were also events of a cultural nature, modt often held in dialect, which to one not yet having got to grips with Italian was a step too far.
 
-~img:torri.bikes:left 40%~ ~img:torri.chairs:right 40%~
+~img:torri-bikes:left 49%~ ~img:torri-piazza-chairs:right 49%~
 
 Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Italy4:Semoigo~
