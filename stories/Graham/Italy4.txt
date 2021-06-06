@@ -25,7 +25,7 @@ We made modest use of the extension with its new bedroom, putting up a number of
 ~img:semoigo-party-1.jpg:left 23%~ ~img:semoigo-party-2.jpg:left 23%~ ~img:semoigo-party-3.jpg:right 23%~ ~img:semoigo-party-4.jpg:right 23%~
 ~img:semoigo-party-5.jpg:left 23%~ ~img:semoigo-party-6.jpg:left 23%~ ~img:semoigo-party-7.jpg:right 23%~ ~img:semoigo-party-8.jpg:right 23%~
 
-<div style="text-align:center" ><iframe width="560" height="315" src="https://www.youtube.com/embed/w8HEHAfamTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+~clear~<div style="text-align:center" ><iframe width="560" height="315" src="https://www.youtube.com/embed/w8HEHAfamTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 About 50 of our friends and neighbours turned up. With no parking space for that many cars we asked them to park on the road and we ran a ferry service from there up the track to the house. We spent the whole day preparing food but many brought contributions of their own. Alcohol flowed freely, of course - this was Italy, after all. Our guests spread out onto both the upper and lower terraces, though we were amused to hear that one couple who had never been to our house before assumed for quite a while that there was another party going on downstairs in what must have been someone else's house. It's not common for a house to have not just one but two large terraces.
 
