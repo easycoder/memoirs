@@ -4,11 +4,13 @@ Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brent
 
 After the autumn of 2007 things were looking precarious for us and we decided to look for somewhere more permanent to live. At the time, rental properties were scarce and mostly very expensive. It was not unusual to find no kitchen or bathroom fittings, just wires and pipes sticking out of walls, so a major expense would have to be incurred even before moving in. We also looked at properties to buy, but again choice was limited. Then in February 2008 we discovered a third-floor village house for sale in Torri, about 5km inland from Ventimiglia.
 
-~img:torri.jpg:center 75%~
+~img:torri.jpg:48%~ ~img:torri-from-above.jpg:48%~
 
 Torri is a strange place, a throwback to an earlier era. It lies at the end of a road going out along the Bevera valley towards the mountains. Beyond Torri, which lies at only 80m above sea level, there are only tracks rising steeply into the hills. The village is typically Ligurian, with a dense mass of interconnected stone houses and _carruggi_ - passageways - running between them for access.
 
 The building we lived in was slightly untypical. Although a stone house, it stands by itself on the edge of the main village, adjacent to the bridge crossing the Bevera river. There are about 4 separate residences; ours was on the third and top floors. Recently modernised, it comprised a living/dining/kitchen area, a main bedroom and a smaller bedroom. Our bedroom had a balcony that directly overlooked the small village piazza, with just enough space for a couple of chairs. The smaller bedroom had a balcony that had been closed in, with a tiny WC behind a door at one end. A spiral iron staircase led to the top floor, with a bathroom and access to the roof terrace. Frankly, it was this that made the apartment superior to so many other ones, and I guess the price reflected. Even so, I think we paid well over the odds for the place.
+
+~img:torri-kitchen.jpg:48%~ ~img:torri-living-room.jpg:48%~
 
 The apartment itself was actually fairly comfortable if you ignored the winding stone staircase to get to it. Somewhat harder to ignore were the bells from the church right next door, which rang out on the hour, quarter, half and three-quarters, day and night. And if that were not enough, the main chimes were repeated a couple of minutes later, just in case people out on the hills hadn't heard them the first time. Sleep was never easy, at least not before midnight.
 
@@ -22,6 +24,6 @@ Although Guy was passionate about his Italian heritage, his wife Noelle was less
 
 Torri was not without its more interesting moments. The local council tries hard to bring events to the village. Every year, a huge motorcycle club based over the French border in Roquebrune held a rally which used Torri as the place to stop for lunch. The piazza filled with hundreds of bikes of all kinds. A veteran sports car rally did much the same on another weekend, when it became impossible to get in or out. This didn't matter too much to us as we had ringside seats right above. There were also events of a cultural nature, modt often held in dialect, which to one not yet having got to grips with Italian was a step too far.
 
-~img:torri-bikes:left 49%~ ~img:torri-piazza-chairs:right 49%~
+~img:torri-bikes:48%~ ~img:torri-piazza-chairs:48%~
 
 Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Italy4:Semoigo~
