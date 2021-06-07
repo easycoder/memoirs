@@ -49,4 +49,4 @@ Here are the photos we put together in order to sell the house. It's a bitter-sw
 ~img:semoigo-sale-21.jpg:left 23%~ ~img:semoigo-sale-22.jpg:left 23%~ ~img:semoigo-sale-23.jpg:left 23%~ ~img:semoigo-sale-24.jpg:left 23%~
 ~img:semoigo-sale-25.jpg:left 23%~ ~img:semoigo-sale-26.jpg:left 23%~ ~img:semoigo-sale-27.jpg:left 23%~ ~img:semoigo-sale-28.jpg:left 23%~
 
-Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Leeds1:Chapel Allerton~
+~clear~Links: ~select:-:Select a subject!selected disabled hidden|T-Penge:Penge|T-Brentwood:Brentwood|T-Felixstowe:Felixstowe|T-North Walsham:North Walsham|T-Cambridge:Cambridge|T-Italy1:Italy|T-Leeds1:Leeds~~space:3~Next: ~tid:Leeds1:Chapel Allerton~
