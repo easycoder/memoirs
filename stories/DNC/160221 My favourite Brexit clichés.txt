@@ -1,8 +1,6 @@
-[![](https://dnc.eclecity.net/wp-content/uploads/2016/02/no.png)](https://dnc.eclecity.net/wp-content/uploads/2016/02/no.png "My favourite Brexit clichés") 
+~img:no.png:center 50%~
 
-<div data-contents="true">
-
-<div class="_2cuy _3dgx" data-offset-key="1vtbl-0-0" data-block="true">
+## My favourite Brexit clichés
 
 The “debate” about Brexit makes for an interesting study into the use of language, and maybe also into the intellectual capacity of many of those advocating it. Here’s my observation on how the Brexit camp uses emotive clichés to support its case rather than engage in sensible discussion. Please note that one of my favourite TV comedy characters is Bernard Woolley, the Principal Private Secretary to PM Jim Hacker in Yes, Minister, which may explain my readiness to seize upon details and nag at them.
 
@@ -46,6 +44,4 @@ The acceptance of inferiority implied by the use of this phrase is quite telling
 
 There are many other clichés in common use, but five is enough for a start. We who want Britain to remain part of a dynamic continent must counter them whenever they are used and demand clarification about what is actually in the minds of those who use them. Sloppy thinking leads to actions taken without due attention to detail, and this can prove disastrous in a competitive international context. The referendum represents the biggest decision Britain has made for decades and it’s essential to go in with eyes wide open, not blinded by meaningless slogans whose only strength is in endless repetition.
 
-</div>
-
-</div>
+Next: tid:160226 Panic and chaos:Panic and Chaos~
