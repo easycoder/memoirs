@@ -1,4 +1,4 @@
-~img:superheroes.png~center~
+~img:superheroes.png:center~
 
 ## Masters of the Universe
 
