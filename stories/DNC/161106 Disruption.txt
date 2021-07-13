@@ -1,4 +1,6 @@
-[![](https://dnc.eclecity.net/wp-content/uploads/2016/11/broken-glass-2-1158910-732x488.jpg)](https://dnc.eclecity.net/wp-content/uploads/2016/11/broken-glass-2-1158910.jpg "Disruption") 
+~img:broken-glass.jpg:center~
+
+## Disruption
 
 At the time of writing it’s just 2 days to the US election, with most of the polls predicting a narrow Clinton victory. Polls have of course been becoming notoriously and increasingly unreliable, as recent events have shown. In the past you could assume that the undecided would at the last minute come down on the side of the status quo, of safety, not wanting to rock the boat, but that tends to ignore the major disruptive processes that have been taking over.
 
@@ -22,4 +24,6 @@ Now imagine you are Julian Assange, put in this intolerable position while being
 
 Never mind that Trump has even more skeletons in his own closet. Just as with Brexit, “those whom the gods seek to destroy first make mad” (<span class="st">Euripides</span>). Who needs to put any effort into damaging the UK post-Brexit or the USA under Trump when both will be so spectacularly good at destroying their own countries? The recent fuss about Russian attempts to inflict a cyber-war on Britain is laughable; why would they bother? Just sit back and wait for the fools to do it to themselves. And in any case, there are plenty of hackers in places like Macedonia engaged full-time in just that activity.
 
-Our society has never been at a more unstable point. Our continued marginalisation of large sections of the population while we enrich the few was always bound to end in disaster. The rich will never voluntarily seek any limits on their wealth, and they care little for the rest of us as long as we don’t threaten their existence. It ignores the total implausibility of such a model; even the rich have to employ servants and tahe risks in allowing such people into close proximity with themselves grows daily. In any case, without a functioning economy not even the rich can hope to see the upward trajectory continuing for long. I wrote over a year ago about [Black Swan Events](http://dnc.eclecity.net/2015/09/23/black-swan/) and my view is the same now, that most of us won’t see it coming. May you live in interesting times.
+Our society has never been at a more unstable point. Our continued marginalisation of large sections of the population while we enrich the few was always bound to end in disaster. The rich will never voluntarily seek any limits on their wealth, and they care little for the rest of us as long as we don’t threaten their existence. It ignores the total implausibility of such a model; even the rich have to employ servants and tahe risks in allowing such people into close proximity with themselves grows daily. In any case, without a functioning economy not even the rich can hope to see the upward trajectory continuing for long. I wrote over a year ago about ~tid:150923 Black Swan Events~ and my view is the same now, that most of us won’t see it coming. May you live in interesting times.
+
+Next: ~tid:170611 Delusions of grandeur~

@@ -1,6 +1,6 @@
-<div class="entry-content" itemprop="text">
+~img:pigdog.png:center~
 
-<figure>[![](https://dnc.eclecity.net/wp-content/uploads/2016/03/pigdog-732x371.png)](https://dnc.eclecity.net/wp-content/uploads/2016/03/pigdog.png "Take care what you wish for") </figure>
+## Take care what you wish for
 
 I think the people pressing for Britain to remain in the EU are not telling the truth.
 
@@ -24,10 +24,8 @@ We’re now down to England, all by itself, with an economy under terrible stres
 
 Is this all an overly-apocalyptic vision of the future? Will England one day crawl back to the EU with its tail between its legs; a minor country, maybe the equal of Holland or Portugal but certainly not of Germany, France or Italy? Why would anyone want such a situation? Is it really worth “getting our country back” if it’s reduced to so little in the process? But above all, can you prove that this nightmare scenario is impossible? If you can’t, please don’t take the risk.
 
-<div class="su-divider su-divider-style-default" style="margin:15px 0;border-width:3px;border-color:#999999">[Go to top](#)</div>
-
 Postscript: The following article appeared in the Mail on Sunday, after I posted. It suggests I’m not the only one fearing the breakup of the UK as a result of Brexit.
 
 [http://www.dailymail.co.uk/news/article-3511030/EasyJet-Ryanair-s-ing-Brexit-Richard-Branson-says-airlines-fear-destroyed-lose-access-European-airspace-airports.html](http://www.dailymail.co.uk/news/article-3511030/EasyJet-Ryanair-s-ing-Brexit-Richard-Branson-says-airlines-fear-destroyed-lose-access-European-airspace-airports.html)
 
-</div>
+Next: ~tid:160706 A night to remember~

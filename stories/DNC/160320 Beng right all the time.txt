@@ -1,4 +1,6 @@
-[![Photo by Troy Mahr](https://dnc.eclecity.net/wp-content/uploads/2016/03/trees-732x488.jpg)](https://dnc.eclecity.net/wp-content/uploads/2016/03/trees.jpg "Being right all the time") 
+~img:trees.jpg:center~
+
+## Being right all the time"
 
 In the news today is the resignation of Iain Duncan-Smith from his Government ministerial role at the Department of Work and Pensions. His complaint appears to be that the Treasury (i.e. George Osborne) is whittling away at all his plans for sensible benefit reforms so they can hand out ever bigger tax cuts to the already rich.
 
@@ -25,3 +27,5 @@ So I’ve come up with 3 scenarios, two of which can’t happen, leaving just th
 Actually there’s a fourth option. We could abandon the myth that we always know what to do, that we’re always right and that we don’t need to listen to anyone, that all we need do is stick by our tried and tested policies. We could seek a consensus, aim to be truly fair and to help the weakest in society by asking just a little more from the ones who can afford it. We could ask our newspapers to stop peddling messages of hate and to report honestly on both sides of every issue.
 
 But that wouldn’t be a very British thing to do. After all, we’re always right.
+
+Next: ~tid:160326 Take care what you wish for~

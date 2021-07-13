@@ -1,3 +1,7 @@
+~img:1950-traveller.jpg:center~
+
+## The future is another world
+
 > “Any sufficiently advanced technology is indistinguishable from magic”
 > 
 > <cite>— Arthur C Clarke’s Third Law</cite>
@@ -16,7 +20,7 @@ Notwithstanding my inability to remember those days, however, the world of the t
 *   In the kitchen, a Kenwood Chef cost the modern equivalent of £500\. Fridges and washing machines were also luxury goods few could afford.
 *   Telephones were mostly black, had a dial instead of a keyboard and were connected to the exchange by a cable. Answering machines came later.
 
-<figure class="wp-block-image size-large">![](https://dnc.eclecity.net/wp-content/uploads/2019/12/52Ford.anglia..jpg)
+<figure>~img:Ford-Anglia.jpg:center~
 
 <figcaption>Ford Anglia</figcaption>
 
@@ -34,9 +38,7 @@ When you power up your smartphone in front of your 1950 audience, the shock of s
 
 The explanation starts in that time itself, in those early days of the transistor. Before then, wireless radio and TV sets used “triode valves”; glass envelopes similar to light bulbs but designed to perform switching functions rather than generate light. The presence or absence of a voltage on one of the triode pins caused it to pass or block electrical current on two other pins. Two more pins connected to a heating coil, without which the device wouldn’t work. In those days you had to wait for a radio or TV set to “warm up” before it would do anything.
 
-<div class="wp-block-image is-style-default">
-
-<figure class="aligncenter size-large is-resized">![](https://dnc.eclecity.net/wp-content/uploads/2019/12/triode-621x1024.jpg)
+<figure>~img:triode.jpg:centr:20%~
 
 <figcaption>Triode valve</figcaption>
 
@@ -95,3 +97,6 @@ I am left with one thought; suppose a visitor from 2090 were to appear today and
 A very Happy New Year to all.
 
 Featured photo by [Emanuela Picone](https://unsplash.com/@emanuela?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/1950s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
+Next: ~sid:Blogs:Back to blogs~

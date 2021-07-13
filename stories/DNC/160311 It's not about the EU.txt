@@ -1,4 +1,6 @@
-[![](https://dnc.eclecity.net/wp-content/uploads/2016/03/economy-crisis-2-1236979-1600x1200-732x549.jpg)](https://dnc.eclecity.net/wp-content/uploads/2016/03/economy-crisis-2-1236979-1600x1200.jpg "It’s not about the EU") 
+~img:economy-crisis.jpg:center~
+
+## It’s not about the EU
 
 Here are two statements, both of which I believe to be true:
 
@@ -19,7 +21,7 @@ So before we hastily leap to conclusions and make a decision that won’t improv
 
 The big question is “Where has all the money gone?”. Money doesn’t just vanish; it all goes somewhere. I think of it like engine oil. If you keep it in a can on the supermarket shelf or in your garage it’s not doing anything. It only has any purpose when it’s keeping your engine running. And the problem today is the “oil” isn’t in the engine.
 
-![oil](http://dnc.eclecity.net/wp-content/uploads/2016/03/oil-300x300.png)
+~img:oil.png:center 30%~
 
 Put money into the economy and lots of things happen. For example, build a new town, a railway line or a road network. Invest in high-speed fibre internet for everyone. Get a major drug discovery programme running. It doesn’t really matter where you start; it all kick-starts the economy. Buildings have to be constructed; drains dug, cables laid. Each of these needs companies specialising in that particular area. Eventually, ordinary working people get paid; they go to the supermarket or the department store and buy things. Every sector of the economy gets involved as the vital lubricant flows through it.
 
@@ -36,3 +38,5 @@ It gets worse, because the people who wanted us to exit will now be in power. Th
 All of this has been happening while we were a member of the EU. It’s been happening in the USA too. I’m not claiming the EU will protect us totally from the harsher effects of globalisation. They’re far from perfect but at least they want to try. On our own there’s just us, alone against forces immensely bigger than we are. Global business doesn’t care about British people, only about profit. The EU is big enough to hamper their efforts, but we aren’t.
 
 So when you hear stockbrokers and businessmen banging on about “wanting our county back”, ask yourself who gets to benefit. Is it you? Or is it just them? Then think carefully on June 23 before giving them what they want; once you’ve handed everything to them you won’t get the chance to take it back again.
+
+Next: ~tid:160320 Beng right all the time~

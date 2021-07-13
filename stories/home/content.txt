@@ -52,7 +52,7 @@ Each of these pages has a selection of links to other pages. Every page has a li
 
 ~stid:Graham/Miscellany:Miscellany~
 
-~sid:DNC:Does Not Compute~
+~sid:Blogs:My blogs~
 
 ### Joan
 ~sid:Joan:Joan Eileen Rosa Matthews~
