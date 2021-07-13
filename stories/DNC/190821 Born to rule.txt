@@ -28,6 +28,6 @@ August 21, 2019
 
 Previous: ~tid:190721 Against the odds:Against the odds~
 
-Next: ~tid:191231 The future is another worl:The future is another world~
+Next: ~tid:191231 The future is another world:The future is another world~
 
 ~sid:DNC:Does Not Compute~
