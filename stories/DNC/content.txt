@@ -49,3 +49,5 @@ On the next page is my first subject, “Do I need it?”, where I questioned th
 ~tid:190821 Born to rule:Born to rule~
 
 ~tid:191231 The future is another world:The future is another world~
+
+~sid:Blogs:Back to Blogs~
