@@ -47,5 +47,7 @@ There are many other clichés in common use, but five is enough for a start. We 
 Febrary 21, 2016
 
 Previous: ~tid:160212 Parallel insanity:Parallel insanity~
+
 Next: ~tid:160226 Panic and chaos:Panic and Chaos~
+
 ~sid:DNC:Does Not Compute~
