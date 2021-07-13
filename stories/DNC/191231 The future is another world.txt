@@ -20,11 +20,7 @@ Notwithstanding my inability to remember those days, however, the world of the t
 *   In the kitchen, a Kenwood Chef cost the modern equivalent of £500\. Fridges and washing machines were also luxury goods few could afford.
 *   Telephones were mostly black, had a dial instead of a keyboard and were connected to the exchange by a cable. Answering machines came later.
 
-<figure>~img:Ford-Anglia.jpg:center~
-
-<figcaption>Ford Anglia</figcaption>
-
-</figure>
+~img:Ford-Anglia.jpg:center 50%~
 
 Imagine yourself unexpectedly transported back in time to 1950 with just the clothes you stand in. As you encounter this unfamiliar world you discover in your pocket just one attribute of the year 2020; your smartphone. Unfortunately, without a digital wireless telephone network most of its functions are non-operational. In the limited time before the battery expires, how would you establish your credentials as being from the world of 70 years hence by explaining to people what this curious object is and what it can do?
 
@@ -38,11 +34,7 @@ When you power up your smartphone in front of your 1950 audience, the shock of s
 
 The explanation starts in that time itself, in those early days of the transistor. Before then, wireless radio and TV sets used “triode valves”; glass envelopes similar to light bulbs but designed to perform switching functions rather than generate light. The presence or absence of a voltage on one of the triode pins caused it to pass or block electrical current on two other pins. Two more pins connected to a heating coil, without which the device wouldn’t work. In those days you had to wait for a radio or TV set to “warm up” before it would do anything.
 
-<figure>~img:triode.jpg:centr:20%~
-
-<figcaption>Triode valve</figcaption>
-
-</figure>
+~img:triode.jpg:centr:25%~
 
 </div>
 
