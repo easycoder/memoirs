@@ -8,44 +8,44 @@ On the next page is my first subject, “Do I need it?”, where I questioned th
 
 ~tid:150909 Do I need it:Do I need it?~
 
-~tid:150916 The Dislike button~
+~tid:150916 The Dislike button:The Dislike button~
 
-~tid:150923 Black swan~
+~tid:150923 Black swan:Black swan~
 
-~tid:160212 Parallel insanity~
+~tid:160212 Parallel insanity:Parallel insanity~
 
-~tid:160221 My favourite Brexit clichés~
+~tid:160221 My favourite Brexit clichés:My favourite Brexit clichés~
 
-~tid:160226 Panic and chaos~
+~tid:160226 Panic and chao:Panic and chaos~
 
-~tid:160229 Deconstructing the kippers~
+~tid:160229 Deconstructing the kippers:Deconstructing the kippers~
 
-~tid:160304 2016 and all that~
+~tid:160304 2016 and all that:2016 and all that~
 
 ~tid:160308 A new politics:A new politics?~
 
-~tid:160311 It's not about the EU~
+~tid:160311 It's not about the EU:It's not about the EU~
 
-~tid:160320 Beng right all the time~
+~tid:160320 Being right all the time:Being right all the time~
 
-~tid:160326 Take care what you wish for~
+~tid:160326 Take care what you wish for:Take care what you wish for~
 
-~tid:160706 A night to remember~
+~tid:160706 A night to remember:A night to remember~
 
-~tid:161106 Disruption~
+~tid:161106 Disruption:Disruption~
 
-~tid:170611 Delusions of grandeur~
+~tid:170611 Delusions of grandeur:Delusions of grandeur~
 
-~tid:170620 Masters of the universe~
+~tid:170620 Masters of the universe:Masters of the universe~
 
-~tid:171017 Messages from the future~
+~tid:171017 Messages from the future:Messages from the future~
 
-~tid:180527 Too much stuff~
+~tid:180527 Too much stuff:Too much stuff~
 
-~tid:190629 Economics for dummies~
+~tid:190629 Economics for dummies:Economics for dummies~
 
-~tid:190721 Against the odds~
+~tid:190721 Against the odds:Against the odds~
 
-~tid:190821 Born to rule~
+~tid:190821 Born to rule:Born to rule~
 
-~tid:191231 The future is another world~
+~tid:191231 The future is another world:The future is another world~
