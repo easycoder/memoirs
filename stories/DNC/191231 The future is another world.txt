@@ -34,7 +34,7 @@ When you power up your smartphone in front of your 1950 audience, the shock of s
 
 The explanation starts in that time itself, in those early days of the transistor. Before then, wireless radio and TV sets used “triode valves”; glass envelopes similar to light bulbs but designed to perform switching functions rather than generate light. The presence or absence of a voltage on one of the triode pins caused it to pass or block electrical current on two other pins. Two more pins connected to a heating coil, without which the device wouldn’t work. In those days you had to wait for a radio or TV set to “warm up” before it would do anything.
 
-~img:triode.jpg:centr:25%~
+~img:triode.jpg:center 25%~
 
 </div>
 
