@@ -7,3 +7,15 @@
 ~tid:061003:October 3, 2006~
 
 ~tid:061008:October 8, 2006~
+
+~tid:061116:October 16, 2006~
+
+~tid:061110:November 10, 2006~
+
+~tid:061120:November 20, 2006~
+
+~tid:061130:November 30, 2006~
+
+~tid:061210:December 10, 2006~
+
+~tid:061222:December 22, 2006~
