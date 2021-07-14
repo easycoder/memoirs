@@ -52,7 +52,7 @@ Each of these pages has a selection of links to other pages. Every page has a li
 
 ~stid:Graham/Miscellany:Miscellany~
 
-~sid:Blogs:My blogs~
+~sid:Blogs:My blogs~ (Many pages)
 
 ### Joan
 ~sid:Joan:Joan Eileen Rosa Matthews~
