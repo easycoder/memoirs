@@ -2,11 +2,15 @@
 
 Over the years I've started a handful of blogs, each time with initial great enthusiasm but gradually tailing off after a few years. I've collected them all together here.
 
+### Letters from Apricale: 2006-7
+
+I started this blog soon after arriving in Italy in September 2006, and continued until the summer of 2007, when things went disastrously wrong between Frances and myself and we parted after 32 years together.
+
+~sid:Letters from Apricale~
+
 ### Does Not Compute: 2015-19
 
 This started as a place to explain various mystifying aspects of technology, but soon after it started Brexit raised its ugly head and I quickly veered off into a series of political rants which I kept up until I eventually had better things to do with my time.
-
-~sid:Letters from Apricale~
 
 ~sid:DNC:Does Not Compute~
 
